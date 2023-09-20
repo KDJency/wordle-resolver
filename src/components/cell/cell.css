@@ -1,0 +1,23 @@
+.cell {
+	align-items: center;
+	border: 1px solid black;
+	display: flex;
+	height: 100px;
+	justify-content: center;
+	margin: 10px;
+	text-transform: uppercase;
+	width: 100px;
+}
+
+.absent {
+	background-color: grey;
+	display: flex;
+}
+
+.correct {
+	background-color: green;
+}
+
+.present {
+	background-color: yellow;
+}

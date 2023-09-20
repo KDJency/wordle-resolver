@@ -1,0 +1,5 @@
+.grid-container {
+    display: flex;
+    max-width: 610px;
+    flex-wrap: wrap;
+}
